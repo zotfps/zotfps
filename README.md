@@ -26,10 +26,17 @@ Estou constantemente aprimorando minha lógica de programação e explorando boa
 
 <div align="center">
   <a href="https://github.com/zotfps">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zotfps&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zotfps&layout=compact&langs_count=7&theme=radical"/>
+    <img 
+      height="160em" 
+      src="https://github-readme-stats.vercel.app/api?username=zotfps&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ffee&text_color=ffffff&icon_color=00ffee&border_color=222222"
+    />
+    <img 
+      height="160em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=zotfps&layout=compact&langs_count=7&bg_color=0d1117&title_color=00ffee&text_color=ffffff&icon_color=00ffee&border_color=222222"
+    />
   </a>
 </div>
+
 
 ---
 
