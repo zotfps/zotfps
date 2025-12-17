@@ -1,7 +1,7 @@
 # 👋 João Marcos
 
 Me chamo João Marcos, tenho 18 anos e sou do Brasil.
-Sou apaixonado por tecnologia e desenvolvimento de software, com um foco especial na área de back-end, onde gosto de entender e construir a base que faz os sistemas realmente funcionarem.
+Sou apaixonado por tecnologia e desenvolvimento de software e cursando Sistemas de Informação, com um foco especial na área de back-end, onde gosto de entender e construir a base que faz os sistemas realmente funcionarem.
 Apesar de ter mais afinidade com o back-end, também desenvolvo projetos front-end com atenção aos detalhes e foco em qualidade. Busco sempre aprender novas tecnologias, entender a fundo como as coisas funcionam e escrever códigos limpos, seguros e eficientes.
 Estou constantemente aprimorando minha lógica de programação e explorando boas práticas de desenvolvimento, com o objetivo de me tornar um profissional completo e preparado para criar soluções sólidas, bem estruturadas e de alto desempenho.
 
