@@ -1,9 +1,12 @@
 # 👋 João Marcos
 
-Me chamo João Marcos, tenho 18 anos e sou do Brasil.
-Sou apaixonado por tecnologia e desenvolvimento de software e cursando Sistemas de Informação, com um foco especial na área de back-end, onde gosto de entender e construir a base que faz os sistemas realmente funcionarem.
-Apesar de ter mais afinidade com o back-end, também desenvolvo projetos front-end com atenção aos detalhes e foco em qualidade. Busco sempre aprender novas tecnologias, entender a fundo como as coisas funcionam e escrever códigos limpos, seguros e eficientes.
-Estou constantemente aprimorando minha lógica de programação e explorando boas práticas de desenvolvimento, com o objetivo de me tornar um profissional completo e preparado para criar soluções sólidas, bem estruturadas e de alto desempenho.
+Me chamo João Marcos, tenho 18 anos e sou do Brasil 🇧🇷  
+
+Sou apaixonado por tecnologia e desenvolvimento de software e atualmente curso **Sistemas de Informação**, com foco especial em **back-end** — área onde gosto de entender e construir a base que faz os sistemas realmente funcionarem.
+
+Apesar da maior afinidade com back-end, também desenvolvo projetos **front-end**, sempre com atenção aos detalhes, organização e qualidade do código. Busco constantemente aprender novas tecnologias, entender profundamente como as coisas funcionam e escrever **códigos limpos, seguros e eficientes**.
+
+Estou em constante evolução da minha lógica de programação e das boas práticas de desenvolvimento, com o objetivo de me tornar um profissional completo, preparado para criar **soluções sólidas, bem estruturadas e de alto desempenho**.
 
 ---
 
@@ -11,12 +14,13 @@ Estou constantemente aprimorando minha lógica de programação e explorando boa
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" />
 
 </div>
 
@@ -36,7 +40,6 @@ Estou constantemente aprimorando minha lógica de programação e explorando boa
     />
   </a>
 </div>
-
 
 ---
 
