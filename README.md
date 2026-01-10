@@ -14,33 +14,61 @@ Estou em constante evolução da minha lógica de programação e das boas prát
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" />
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🚀 Projetos em Destaque
 
-<div align="center">
+### 🔹 Extensão Anti-Procrastinação
+📌 **Descrição:**  
+Extensão desenvolvida com o objetivo de ajudar no foco e na produtividade, bloqueando ou controlando acessos a sites que causam distração durante períodos de estudo ou trabalho.
 
-<img 
-  height="160em"
-  src="https://github-readme-stats.vercel.app/api?username=zotfps&cache_seconds=86400&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-/>
+🛠 **Tecnologias:**  
+JavaScript • HTML • CSS • Extensão de Navegador
 
-<img 
-  height="160em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zotfps&cache_seconds=86400&layout=compact&langs_count=6&theme=tokyonight"
-/>
+🔗 **Repositório:**  
+👉 https://github.com/zotfps/anti-procastinacao
 
-</div>
+---
+
+### 🔹 Sistema de Gestão para Oficina de Motos — *Projeto Comercial*
+📌 **Descrição:**  
+Sistema completo de **gestão para oficinas de motos**, desenvolvido e entregue como **solução comercial**.  
+O sistema oferece **gerenciamento de usuários**, **cadastro de clientes e veículos**, **criação e controle de ordens de serviço com geração automática em PDF**, além de **módulos financeiros** para controle de faturamento e movimentações.
+
+Por se tratar de um **projeto comercial**, o código-fonte não é público, mas pode ser **demonstrado ou apresentado a recrutadores e oportunidades profissionais**, mediante solicitação.
+
+🛠 **Tecnologias:**  
+Node.js • JavaScript • Express • Banco de Dados
+
+🔒 **Código-fonte:**  
+Privado (projeto comercial)
+
+---
+
+### 🔹 API Back-end em Node.js (em desenvolvimento)
+📌 **Descrição:**  
+API REST em desenvolvimento utilizando **Node.js** e **Express**, com foco em estrutura escalável, boas práticas de back-end e organização de rotas.
+
+🛠 **Tecnologias:**  
+Node.js • Express • JavaScript • API REST
+
+🔗 **Repositório:**  
+👉 https://github.com/zotfps/back-end-nodejs
+
+---
+
+📂 **Mais projetos:**  
+👉 https://github.com/zotfps
 
 ---
 
