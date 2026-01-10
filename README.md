@@ -43,12 +43,14 @@ JavaScript • HTML • CSS • Extensão de Navegador
 ### 🔹 Sistema de Gestão para Oficina de Motos — *Projeto Comercial*
 📌 **Descrição:**  
 Sistema completo de **gestão para oficinas de motos**, desenvolvido e entregue como **solução comercial**.  
-O sistema oferece **gerenciamento de usuários**, **cadastro de clientes e veículos**, **criação e controle de ordens de serviço com geração automática em PDF**, além de **módulos financeiros** para controle de faturamento e movimentações.
+A aplicação permite **gerenciamento de usuários**, **cadastro de clientes e veículos**, **criação e controle de ordens de serviço com geração automática em PDF**, além de **módulos financeiros** para controle de entradas, saídas e faturamento.
 
-Por se tratar de um **projeto comercial**, o código-fonte não é público, mas pode ser **demonstrado ou apresentado a recrutadores e oportunidades profissionais**, mediante solicitação.
+O sistema foi desenvolvido utilizando **HTML, CSS e JavaScript puro**, com persistência de dados em **SQLite**, demonstrando domínio de lógica, organização de código e manipulação direta de banco de dados **sem uso de frameworks**.
+
+Por se tratar de um **projeto comercial**, o código-fonte não é público, mas pode ser **apresentado ou demonstrado a recrutadores e oportunidades profissionais**, mediante solicitação.
 
 🛠 **Tecnologias:**  
-Node.js • JavaScript • Express • Banco de Dados
+HTML • CSS • JavaScript (Vanilla) • SQLite
 
 🔒 **Código-fonte:**  
 Privado (projeto comercial)
