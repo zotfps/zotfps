@@ -56,14 +56,6 @@ HTML • CSS • JavaScript (Vanilla) • SQLite
 Privado (projeto comercial)
 
 ---
-
-### 🔹 API Back-end em Node.js (em desenvolvimento)
-📌 **Descrição:**  
-API REST em desenvolvimento utilizando **Node.js** e **Express**, com foco em estrutura escalável, boas práticas de back-end e organização de rotas.
-
-🛠 **Tecnologias:**  
-Node.js • Express • JavaScript • API REST
-
 🔗 **Repositório:**  
 👉 https://github.com/zotfps/back-end-nodejs
 
