@@ -14,13 +14,13 @@ Estou em constante evolução da minha lógica de programação e das boas prát
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" />
 
 </div>
 
@@ -28,17 +28,18 @@ Estou em constante evolução da minha lógica de programação e das boas prát
 
 ## 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas do GitHub
-
 <div align="center">
-  <img 
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=zotfps&cache_seconds=86400&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ffee&text_color=ffffff&icon_color=00ffee&border_color=222222"
-  />
-  <img 
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zotfps&cache_seconds=86400&layout=compact&langs_count=7&bg_color=0d1117&title_color=00ffee&text_color=ffffff&icon_color=00ffee&border_color=222222"
-  />
+
+<img 
+  height="160em"
+  src="https://github-readme-stats.vercel.app/api?username=zotfps&cache_seconds=86400&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+/>
+
+<img 
+  height="160em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zotfps&cache_seconds=86400&layout=compact&langs_count=6&theme=tokyonight"
+/>
+
 </div>
 
 ---
