@@ -28,17 +28,17 @@ Estou em constante evolução da minha lógica de programação e das boas prát
 
 ## 📊 Estatísticas do GitHub
 
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <a href="https://github.com/zotfps">
-    <img 
-      height="160em" 
-      src="https://github-readme-stats.vercel.app/api?username=zotfps&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ffee&text_color=ffffff&icon_color=00ffee&border_color=222222"
-    />
-    <img 
-      height="160em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=zotfps&layout=compact&langs_count=7&bg_color=0d1117&title_color=00ffee&text_color=ffffff&icon_color=00ffee&border_color=222222"
-    />
-  </a>
+  <img 
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api?username=zotfps&cache_seconds=86400&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ffee&text_color=ffffff&icon_color=00ffee&border_color=222222"
+  />
+  <img 
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zotfps&cache_seconds=86400&layout=compact&langs_count=7&bg_color=0d1117&title_color=00ffee&text_color=ffffff&icon_color=00ffee&border_color=222222"
+  />
 </div>
 
 ---
