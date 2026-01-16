@@ -56,10 +56,6 @@ HTML • CSS • JavaScript (Vanilla) • SQLite
 Privado (projeto comercial)
 
 ---
-🔗 **Repositório:**  
-👉 https://github.com/zotfps/back-end-nodejs
-
----
 
 📂 **Mais projetos:**  
 👉 https://github.com/zotfps
